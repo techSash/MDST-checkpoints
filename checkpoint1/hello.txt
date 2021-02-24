@@ -1,0 +1,5 @@
+Hello! My name is Sashaank Sekar from Chennai, India.
+
+I joined University of Michigan, Master's in Applied Data Science (MADS) in Winter 2021 term.
+
+I started learning Python back in 2014 through the Python for everybody course on the Coursera platform and fell in love with it immediately. I got a job as a Analytics Consultant in a small startup in Mumbai in 2018. Elon musk is one of my inspirations for a career in Data Science.
